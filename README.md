@@ -1,6 +1,14 @@
 <img src="./header.png" alt="header">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonid9191&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonid9191&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonid9191&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonid9191&theme=github)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonid9191)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonid-chernobylskiy/)
